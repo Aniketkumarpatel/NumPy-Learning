@@ -1,5 +1,5 @@
 #creating identity matrix
-#eye(sixe)
+#np.eye()
 
 import numpy as np
 
