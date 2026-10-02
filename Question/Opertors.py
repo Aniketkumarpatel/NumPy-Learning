@@ -67,5 +67,5 @@ print(result)
 # Find the variance.
 import numpy as np 
 arr = np.array([12,23,4,5,678,9])
-result = np.var(arr)
+result = arr([0])
 print(result)
